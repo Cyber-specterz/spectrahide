@@ -54,7 +54,7 @@ colorama
 ### 1️⃣ Clone the repository
 
 ```
-git clone https://github.com/cyberspecterz/spectrahide.git
+git clone https://github.com/Cyber-specterz/spectrahide.git
 ```
 
 ### 2️⃣ Move into the project folder
